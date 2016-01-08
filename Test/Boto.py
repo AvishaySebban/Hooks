@@ -8,8 +8,8 @@ import boto.s3.connection
 
 # Connect to S3
 
-AWS_ACCESS_KEY_ID = 'AKIAJ6P3OIYAWLS2KEIQ'
-AWS_SECRET_ACCESS_KEY = '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'
+AWS_ACCESS_KEY_ID = 'aa'
+AWS_SECRET_ACCESS_KEY = 'aa'
 Bucketname = 'lab-test-log-dc' 
 
 conn = boto.s3.connect_to_region('s3-us-west-2.amazonaws.com',

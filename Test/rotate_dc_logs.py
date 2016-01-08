@@ -84,8 +84,8 @@ def getAwsParamsFromZoo():
     
     awsEndpoint= "s3-us-west-2.amazonaws.com" 
     awsBucket= "lab-test-log-dc" 
-    awsUser="AKIAJ6P3OIYAWLS2KEIQ"
-    awsPass="eqF66qG8w73nrMA5rq4Uxi4LIlyqoUVzgZUDAKgU"
+    awsUser="aa"
+    awsPass="aa"
     
     return awsEndpoint, awsBucket, awsUser, awsPass
 
